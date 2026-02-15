@@ -1,54 +1,70 @@
-# Hi, I'm Prabhjot Singh 👋
+<h1 align="center">
+  Hi 👋, I'm Prabhjot Singh
+</h1>
 
-🎓 B.Tech CSE Student at UPES  
-💻 Future Full Stack Developer  
-🚀 Passionate about Programming, Problem Solving & Web Development  
+<h3 align="center">B.Tech CSE Student | Aspiring Full Stack Developer | DSA Learner</h3>
 
-I believe strong fundamentals build strong developers. Currently focused on mastering core programming and gradually moving toward advanced development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+DSA+%F0%9F%94%A5;Building+Web+Projects+%F0%9F%8C%90;Future+Full+Stack+Developer+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-- 🧠 Learning C to strengthen logic and problem-solving  
-- 📚 Actively learning Data Structures & Algorithms  
-- 🌐 Building responsive web pages using HTML & CSS  
-- ⚡ Exploring JavaScript to make web applications interactive  
-- 📈 Sharing my DSA practice and coding journey on GitHub  
+- 🎓 First Year B.Tech Student at UPES  
+- 🧠 Strengthening core programming with **C**  
+- 🔥 Actively learning **Data Structures & Algorithms**  
+- 🌐 Building responsive websites using **HTML & CSS**  
+- ⚡ Exploring **JavaScript fundamentals**  
+- 📈 Sharing my DSA journey on GitHub  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming
-C  
+<p align="center">
 
-### 🌐 Web Development
-HTML5 • CSS3 • Basic JavaScript  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
-### 🧰 Tools
-Git • GitHub • VS Code  
+</p>
 
 ---
 
-## 📌 Current Focus
+## 📌 My DSA Journey
 
-- 🔥 Data Structures & Algorithms Practice  
-  📂 DSA Journey Repository:  
-  👉 https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/main/Self-Practice  
+🔥 I document my practice questions and progress here:  
+👉 https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/main/Self-Practice  
 
-- Strengthening core programming fundamentals  
-- Preparing for future internships  
-- Improving consistency in coding  
+Consistency > Motivation.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhjotsingh1509&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhjotsingh1509&layout=compact&theme=radical" width="48%">
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/prabhjot-singh-dang-a01627377/  
-- 📧 Email: amssre.16461@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhjot-singh-dang-a01627377/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prabhjot%20Singh-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:amssre.16461@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amssre.16461@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-⭐ *Consistency beats talent when talent doesn’t work hard.*
-
+⭐ *“Learning today to build tomorrow.”*
