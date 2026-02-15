@@ -48,8 +48,7 @@ Consistency > Motivation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhjotsingh1509&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhjotsingh1509&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabhjotsingh1509&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
